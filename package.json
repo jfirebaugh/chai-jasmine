@@ -1,0 +1,22 @@
+{
+  "author": "John Firebaugh <john.firebaugh@gmail.com>",
+  "name": "chai-jasmine",
+  "description": "Ease the transition to mocha and chai with Jasmine-compatible matchers and spies.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chaijs/chai-jasmine.git"
+  },
+  "main": "./index",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
